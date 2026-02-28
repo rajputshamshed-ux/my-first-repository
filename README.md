@@ -1,3 +1,5 @@
 root@896cf839cf9a:/# git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{rajputshamshed-ux}/{my-first-repository}.git                  
 Cloning into '{YOUR_REPO}'...
 warning: You appear to have cloned an empty repository.       
+mkdir my-first-project
+
