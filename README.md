@@ -3,3 +3,4 @@ Cloning into '{YOUR_REPO}'...
 warning: You appear to have cloned an empty repository.       
 mkdir my-first-project
 
+# my-first-repository
